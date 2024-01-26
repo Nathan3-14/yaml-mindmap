@@ -1,0 +1,16 @@
+Mindmap:
+  Features:
+    - Can take yml and json
+    - All it requires is python and the yaml module
+  Examples:
+    Yaml:
+      - Take a look at this file!
+    Json:
+      - Look at the json version of this file!
+  Images:
+    i--:
+      Image name:
+        - https://fastly.picsum.photos/id/393/200/75.jpg?hmac=jlEHWii57NVeX9WkfNQwjMdmlP04XBQqcx2XtkUPKWI
+      Image 2:
+        - https://fastly.picsum.photos/id/742/100/50.jpg?hmac=ypfKS-piIMDe50YxPuHwRk8xoni8LGONgkI7i1CvCqw
+      #? Links to image files (.png or .jpg)
